@@ -1,0 +1,122 @@
+[
+  {
+    "title": "CO1 Book",
+    "unit": "CO1",
+    "category": "Book",
+    "description": "Foundations and reference material for data science topics.",
+    "tags": [
+      "data science",
+      "book",
+      "theory",
+      "co1"
+    ],
+    "source_file": "co1 book.pdf",
+    "original_path": "C:\\Users\\Vadhana\\PycharmProjects\\dsda miniproject\\uploads\\co1 book.pdf",
+    "added_on": "2026-03-18 00:00:00"
+  },
+  {
+    "title": "CO1 Notes DSDA",
+    "unit": "CO1",
+    "category": "Notes",
+    "description": "Unit 1 notes covering data science vs data analytics, introduction, need for data science, and course concepts.",
+    "tags": [
+      "co1",
+      "notes",
+      "data analytics",
+      "data science"
+    ],
+    "source_file": "CO1 Notes DSDA(2).doc",
+    "original_path": "C:\\Users\\Vadhana\\PycharmProjects\\dsda miniproject\\uploads\\CO1 Notes DSDA(2).doc",
+    "added_on": "2026-03-18 00:00:00"
+  },
+  {
+    "title": "CO1 Test Question Paper",
+    "unit": "CO1",
+    "category": "Question Paper",
+    "description": "Continuous Assessment Test 1 for Fundamentals of Data Science and Analytics.",
+    "tags": [
+      "co1",
+      "test",
+      "question paper",
+      "cat"
+    ],
+    "source_file": "Co1 test qp.pdf",
+    "original_path": "C:\\Users\\Vadhana\\PycharmProjects\\dsda miniproject\\uploads\\Co1 test qp.pdf",
+    "added_on": "2026-03-18 00:00:00"
+  },
+  {
+    "title": "CO3 Formula Notes",
+    "unit": "CO3",
+    "category": "Formula Sheet",
+    "description": "Formula sheet for data analysis and statistics.",
+    "tags": [
+      "co3",
+      "formula",
+      "statistics",
+      "sheet"
+    ],
+    "source_file": "CO3 formulas notes.pdf",
+    "original_path": "C:\\Users\\Vadhana\\PycharmProjects\\dsda miniproject\\uploads\\CO3 formulas notes.pdf",
+    "added_on": "2026-03-18 00:00:00"
+  },
+  {
+    "title": "Course Plan DSDA",
+    "unit": "General",
+    "category": "Course Plan",
+    "description": "Course outcomes and course delivery plan for DSDA.",
+    "tags": [
+      "course plan",
+      "co",
+      "syllabus",
+      "dsda"
+    ],
+    "source_file": "course plan dsda.pdf",
+    "original_path": "C:\\Users\\Vadhana\\PycharmProjects\\dsda miniproject\\uploads\\course plan dsda.pdf",
+    "added_on": "2026-03-18 00:00:00"
+  },
+  {
+    "title": "DSDA Question Bank / Case Studies",
+    "unit": "General",
+    "category": "Question Bank",
+    "description": "Case studies and DSDA lab/problem questions.",
+    "tags": [
+      "question bank",
+      "case study",
+      "numpy",
+      "pandas",
+      "analytics"
+    ],
+    "source_file": "dsda q all-1.pdf",
+    "original_path": "C:\\Users\\Vadhana\\PycharmProjects\\dsda miniproject\\uploads\\dsda q all-1.pdf",
+    "added_on": "2026-03-18 00:00:00"
+  },
+  {
+    "title": "II Year Student Batch Name List",
+    "unit": "General",
+    "category": "Student List",
+    "description": "Batch-wise student name list.",
+    "tags": [
+      "students",
+      "batch",
+      "list"
+    ],
+    "source_file": "II Year Student Batch Name list.pdf",
+    "original_path": "C:\\Users\\Vadhana\\PycharmProjects\\dsda miniproject\\uploads\\II Year Student Batch Name list.pdf",
+    "added_on": "2026-03-18 00:00:00"
+  },
+  {
+    "title": "ML1 Question Bank",
+    "unit": "ML1",
+    "category": "Question Bank",
+    "description": "Machine learning question bank and case study tasks.",
+    "tags": [
+      "ml",
+      "question bank",
+      "dataset",
+      "python"
+    ],
+    "source_file": "ML1 QB.pdf",
+    "original_path": "C:\\Users\\Vadhana\\PycharmProjects\\dsda miniproject\\uploads\\ML1 QB.pdf",
+    "added_on": "2026-03-18 00:00:00"
+  }
+]
